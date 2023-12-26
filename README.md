@@ -36,3 +36,17 @@ O compilador será implementado usando a linguagem Python. Isso permitirá que o
 
 O compilador será testado usando uma variedade de casos de teste. Os casos de teste serão projetados para garantir que o compilador seja eficiente e que mantenha a dinâmica da linguagem Python.
 
+# Perguntas já respondidas:
+
+Más isso não é possível?
+Resposta: É possível sim, nada é impossível.
+
+Como vai fazer isso?
+Resposta: Estudando :)
+
+Jamais vai alcançar esse objetivo!
+Resposta: Então não acredite.
+
+MIT License
+
+Copyright (c) 2023 UserNotfoundR
