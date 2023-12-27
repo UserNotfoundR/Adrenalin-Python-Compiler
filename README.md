@@ -47,6 +47,12 @@ Resposta: Estudando :)
 Jamais vai alcançar esse objetivo!
 Resposta: Então não acredite.
 
+# Previsão
+
+Honestamente, neste momento, não tenho certeza de como vou alcançar esse objetivo. No entanto, estou comprometido em dedicar tempo considerável ao estudo de Python, ciência da computação e outras disciplinas relevantes. Acredito que esse esforço contínuo e aprofundado me proporcionarão as habilidades necessárias para atingir o objetivo que estou buscando. Estou ciente de que o caminho pode ser desafiador, mas estou disposto a enfrentar os desafios com determinação e perseverança.
+
+# Fim :)
+
 MIT License
 
 Copyright (c) 2023 UserNotfoundR
