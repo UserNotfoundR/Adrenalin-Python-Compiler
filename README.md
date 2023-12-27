@@ -1,5 +1,13 @@
 # Adrenalin-Python-Compiler
 
+# Pegunta:
+
+Is it possible to make Python a high/low-level hybrid language by creating a compiler in pure Python to translate it into machine language and run it directly on the processor?
+
+Cpython core developer responce:
+
+Yes.
+
 # Ideia:
 
 Criar um compilador eficiente para a linguagem Python, sem perder sua dinâmica. O compilador deve passar por todas as etapas de um compilador tradicional, como análise léxica, sintática, semântica, geração de código intermediario, otimização e geração de código final.
