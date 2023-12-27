@@ -2,7 +2,7 @@
 
 # 💻Compilador:
 
-Este é um projeto decompilador eficiente e versátil, projetado para traduzir código-fonte em linguagens de programação para código de máquina executável.
+Este é um projeto de compilador eficiente e versátil, projetado para traduzir código-fonte em linguagens de programação para código de máquina executável.
 Com uma abordagem inovadora, o compilador oferece recursos avançados e desempenho otimizado, tornando-o uma ferramenta indispensável para desenvolvedores.
 (Em desenvolvimento e não está pronto.)
 
