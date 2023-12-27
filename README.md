@@ -1,24 +1,18 @@
 # Adrenalin-Python-Compiler
 
-# Pegunta:
+# 💻Compilador:
 
-Is it possible to make Python a high/low-level hybrid language by creating a compiler in pure Python to translate it into machine language and run it directly on the processor?
+Este é um projeto decompilador eficiente e versátil, projetado para traduzir código-fonte em linguagens de programação para código de máquina executável.
+Com uma abordagem inovadora, o compilador oferece recursos avançados e desempenho otimizado, tornando-o uma ferramenta indispensável para desenvolvedores.
+(Em desenvolvimento e não está pronto.)
 
-Cpython core developer responce:
-
-Yes.
-
-# Ideia:
-
-Criar um compilador eficiente para a linguagem Python, sem perder sua dinâmica. O compilador deve passar por todas as etapas de um compilador tradicional, como análise léxica, sintática, semântica, geração de código intermediario, otimização e geração de código final.
-
-# Objetivos:
+# 🌟Objetivos:
 
 Criar um compilador que seja pelo menos 60% mais eficiente do que o interpretador Python padrão e chegue na velocidade do c++.
 Manter a dinâmica da linguagem Python, permitindo que os programadores usem recursos como mutabilidade, herança múltipla e programação orientada a objetos.
 Criar um compilador que seja fácil de usar e manter.
 
-# Etapas:
+# 📃Etapas:
 
 Análise léxica: A análise léxica é responsável por dividir o código Python em tokens. Os tokens são os elementos básicos do código, como identificadores, operadores e números.
 
@@ -32,11 +26,11 @@ Otimização de código: A otimização de código é responsável por melhorar 
 
 Geração de código final: A geração de código final é responsável por criar o código de máquina que será executado pelo computador.
 
-# Arquitetura:
+# 🔨Arquitetura:
 
 O compilador será dividido em várias partes, cada uma responsável por uma etapa do processo de compilação. As partes serão interligadas por uma interface comum.
 
-# Implementação:
+# 🐍Implementação:
 
 O compilador será implementado usando a linguagem Python. Isso permitirá que o compilador seja usado para compilar código Python.
 
@@ -44,9 +38,9 @@ O compilador será implementado usando a linguagem Python. Isso permitirá que o
 
 O compilador será testado usando uma variedade de casos de teste. Os casos de teste serão projetados para garantir que o compilador seja eficiente e que mantenha a dinâmica da linguagem Python.
 
-# Perguntas já respondidas:
+# ❔Perguntas já respondidas:
 
-Más isso não é possível?
+Más isso não é possível.
 Resposta: É possível sim, nada é impossível.
 
 Como vai fazer isso?
@@ -55,11 +49,14 @@ Resposta: Estudando :)
 Jamais vai alcançar esse objetivo!
 Resposta: Então não acredite.
 
-# Previsão
+Isso é realmente possível?
+Resoposta: Sim
+
+# ⏳Previsão
 
 Honestamente, neste momento, não tenho certeza de como vou alcançar esse objetivo. No entanto, estou comprometido em dedicar tempo considerável ao estudo de Python, ciência da computação e outras disciplinas relevantes. Acredito que esse esforço contínuo e aprofundado me proporcionarão as habilidades necessárias para atingir o objetivo que estou buscando. Estou ciente de que o caminho pode ser desafiador, mas estou disposto a enfrentar os desafios com determinação e perseverança.
 
-# Fim :)
+# 🙃Fim :)
 
 MIT License
 
