@@ -34,7 +34,7 @@ O compilador será dividido em várias partes, cada uma responsável por uma eta
 
 O compilador será implementado usando a linguagem Python. Isso permitirá que o compilador seja usado para compilar código Python.
 
-# Testes:
+# 📚Testes:
 
 O compilador será testado usando uma variedade de casos de teste. Os casos de teste serão projetados para garantir que o compilador seja eficiente e que mantenha a dinâmica da linguagem Python.
 
